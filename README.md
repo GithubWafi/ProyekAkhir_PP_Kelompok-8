@@ -1,3 +1,3 @@
-# Program Kasir RM. Sederhana
+# Program Kasir Sederhana
 
-Program yang dapat kalkulasi harga total suatu pesanan dari menu RM. Sederhana.
+Program yang dapat kalkulasi harga total suatu pesanan dari sebuah menu.
